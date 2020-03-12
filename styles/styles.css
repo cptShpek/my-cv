@@ -1,0 +1,27 @@
+body {
+    background-color: #d0c0f1;
+}
+
+#wrapper {
+    position: relative;
+    left: 50%;
+    width: 600px;
+    transform: translate(-50%);
+    background-color: #f6eedf;
+    border-radius: 8%;
+}
+
+hr {
+    border-style: none;
+    border-top-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
